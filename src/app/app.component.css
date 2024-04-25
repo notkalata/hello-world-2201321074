@@ -1,0 +1,23 @@
+.section-header {
+    font-family: Tahoma, sans-serif;
+    color: rebeccapurple;
+}
+
+.section-header:hover {
+    cursor: pointer;
+}
+
+.section-header > span {
+    color: black;
+}
+
+p {
+    font-family: Tahoma, sans-serif;
+    font-size: 1.25rem;
+}
+
+a {
+    font-weight: bold;
+    color: orange;
+    text-decoration: none;
+}
